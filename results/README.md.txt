@@ -1,0 +1,1 @@
+Computational experiments are conducted on a Windows 10 machine with Intel Core i7 at 2.80 GHz and 8 GB of RAM. Models are coded in GAMS 28.2. 

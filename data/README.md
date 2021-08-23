@@ -1,3 +1,1 @@
-# Data for replication
-
-Here is the data needed for replicating the experiments. 
+Here is the data for instances tested in the paper
