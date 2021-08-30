@@ -1,10 +1,32 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
+# Multiperiod Blending Problem Instances
 
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
 Supporting material for paper titled: "Variable Bound Tightening and Valid Constraints for Multiperiod Blending", by Yifu Chen and Christos Maravelias.
+
+## Cite
+
+To cite this material, please cite both the [paper](https://doi.org/10.1287/ijoc.2021.0201) and this repository, using the following DOI.
+
+[![DOI](https://zenodo.org/badge/288628515.svg)](https://zenodo.org/badge/latestdoi/288628515)
+
+Below is the BibTex for citing this version of the code.
+
+```
+@article{VBOHCA,
+  author =        {Y. Chen and C. Maravelias},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {{M}ultiperiod {B}lending {P}roblem {I}nstances},
+  year =          {2021},
+  doi =           {10.5281/zenodo.4079985},
+  url =           {https://github.com/INFORMSJoC/2020.2010},
+}  
+```
+
+## How to use these files
 
 We provide instances for the multiperiod blending problems tested in our paper. Instances are modified from D’Ambrosio, Linderoth, and Luedtke (2011) (link: https://link.springer.com/chapter/10.1007/978-3-642-20807-2_10). Please find the data for tested instances in the data folder. 
 
