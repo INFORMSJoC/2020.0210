@@ -19,7 +19,7 @@ Below is the BibTex for citing this version of the code.
 @article{VBOHCA,
   author =        {Y. Chen and C. Maravelias},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{M}ultiperiod {B}lending {P}roblem {I}nstances},
+  title =         {Multiperiod Blending Problem Instances},
   year =          {2021},
   doi =           {DOI: 10.5281/zenodo.5347779},
   url =           {https://github.com/INFORMSJoC/2020.2010},
