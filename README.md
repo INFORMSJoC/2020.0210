@@ -2,7 +2,7 @@
 
 
 This archive is distributed in association with the [INFORMS Journal on
-Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
+Computing](https://pubsonline.informs.org/journal/ijoc) under the [CC BY License](LICENSE).
 
 Supporting material for paper titled: "Variable Bound Tightening and Valid Constraints for Multiperiod Blending", by Yifu Chen and Christos Maravelias.
 
@@ -15,3 +15,5 @@ To run tests, put the data file, model file, and main file (in src folder) under
 To test different models mentioned in the paper, please modify the model file accordingly. For each formulation (SourceBased, Proportion, etc.), M1_BigM in the model file corresponds to M^{SB}/M^{PB} in the paper (the original model), M2_VSpec corresponds to M^{UV} (the refourmulated model with structures for bound tightening), and M6_RT corresponds to M^{UV}_{RT} (model with tightening constraints).
 
 Results can be found in the result folder. 
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
