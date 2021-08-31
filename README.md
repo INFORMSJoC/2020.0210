@@ -9,6 +9,23 @@ Supporting material for paper titled: "Variable Bound Tightening and Valid Const
 
 ## Cite
 
+To cite this material, please cite this repository, using the following DOI.
+
+[![DOI](https://zenodo.org/badge/391698192.svg)](https://zenodo.org/badge/latestdoi/391698192)
+
+Below is the BibTex for citing this version of the code.
+
+```
+@article{VBOHCA,
+  author =        {Y. Chen and C. Maravelias},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {{M}ultiperiod {B}lending {P}roblem {I}nstances},
+  year =          {2021},
+  doi =           {DOI: 10.5281/zenodo.5347779},
+  url =           {https://github.com/INFORMSJoC/2020.2010},
+}  
+```
+
 The final version of this repository, with updated bibliographical information, is available at [GitHub](https://github.com/INFORMSJoC/2020.0210).
 
 ## How to use these files
