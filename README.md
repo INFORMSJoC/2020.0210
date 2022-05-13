@@ -5,7 +5,7 @@
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [CC BY License](LICENSE).
 
-Supporting material for paper titled: "Variable Bound Tightening and Valid Constraints for Multiperiod Blending", by Yifu Chen and Christos Maravelias.
+Supporting material for paper titled: ["Variable Bound Tightening and Valid Constraints for Multiperiod Blending"](https://doi.org/10.1287/ijoc.2021.1140) by Yifu Chen and Christos Maravelias.
 
 ## Cite
 
