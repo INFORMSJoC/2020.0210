@@ -9,9 +9,7 @@ Supporting material for paper titled: ["Variable Bound Tightening and Valid Cons
 
 ## Cite
 
-To cite this material, please cite this repository, using the following DOI.
-
-[![DOI](https://zenodo.org/badge/391698192.svg)](https://zenodo.org/badge/latestdoi/391698192)
+To cite this material, please cite [the paper](https://doi.org/10.1287/ijoc.2021.1140) and [this repository](https://doi.org/10.1287/ijoc.2021.1140.cd).
 
 Below is the BibTex for citing this version of the code.
 
@@ -21,7 +19,7 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {Multiperiod Blending Problem Instances},
   year =          {2021},
-  doi =           {DOI: 10.5281/zenodo.5347779},
+  doi =           {10.1287/ijoc.2021.1140.cd},
   url =           {https://github.com/INFORMSJoC/2020.2010},
 }  
 ```
